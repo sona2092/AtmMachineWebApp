@@ -60,9 +60,13 @@ cd ATM-Banking-System
    
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/66b13164-695a-46aa-bfbb-28429b6c8ac0)
+
 ![image](https://github.com/user-attachments/assets/61b62d58-207e-431a-90ca-79c0ef637724)
+
 ![image](https://github.com/user-attachments/assets/42868cf2-8020-45e3-a013-f4d49579c3ef)
+
 ![image](https://github.com/user-attachments/assets/ba03c34c-d92f-4373-b600-5a17b4f44595)
+
 ![image](https://github.com/user-attachments/assets/c06301a6-800e-4458-8917-a74617e64c91)
 
 
