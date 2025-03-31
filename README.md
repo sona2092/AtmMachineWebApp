@@ -6,7 +6,7 @@ ATM Banking System is a web-based application that provides banking functionalit
 ## 🔧 Features
 - ✅ **User authentication and session management**
 - 💳 **Account balance inquiry**
-- 💰 **Fund transfers between accounts**
+- 💰 **Easily deposit or withdraw funds securely**
 - ⚙ **Change PIN functionality**
 - 🌟 **User-friendly web interface**
 
